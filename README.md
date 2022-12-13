@@ -9,10 +9,14 @@ Zenon Network SDK Port to Kotlin (Android).
 - ABI 🟩
 - API 🟩
 - Argon2 🟩
-- Client 🟧
+- Client 🟩
 - Crypto 🟩
 - Embedded 🟩
 - Model 🟩
-- POW 🟧
+- POW 🟩
 - Utils 🟩
-- Wallet 🟧
+- Wallet 🟩
+
+- Testing 🟧
+- Documentation 🟧
+- Publish Scripts (Maven Central) 🟥 
